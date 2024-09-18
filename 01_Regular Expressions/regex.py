@@ -11,6 +11,10 @@
 # load libraries ------------------------------------------------------------------------
 import re
 import pandas as pd
+import os
+
+# Change directory ---------------------------------------------------------------------------
+os.chdir('01_Regular Expressions/')
 
 # import data ---------------------------------------------------------------------------
 star_trek_bios = open("star-trek-bios.txt").read()

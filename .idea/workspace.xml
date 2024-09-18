@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d947f22-907d-4510-88aa-1dce4b66a29e" name="Changes" comment="Session 2" />
+    <list default="true" id="1d947f22-907d-4510-88aa-1dce4b66a29e" name="Changes" comment="Session 2">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Regular Expressions/regex.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_Regular Expressions/regex.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +62,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.regex.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/monserrat.lopez/Documents/Hertie/2_NLP/Hertie_Fall2024_Natural Language Processing&quot;,
@@ -91,6 +96,9 @@
       <workItem from="1726056429295" duration="2066000" />
       <workItem from="1726058602028" duration="546000" />
       <workItem from="1726059284642" duration="105000" />
+      <workItem from="1726059391169" duration="132000" />
+      <workItem from="1726236310768" duration="2986000" />
+      <workItem from="1726646813148" duration="4796000" />
     </task>
     <task id="LOCAL-00001" summary="Session 2">
       <option name="closed" value="true" />
@@ -180,7 +188,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726058967707</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Session 2">
+      <option name="closed" value="true" />
+      <created>1726059439485</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726059439485</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Session 2">
+      <option name="closed" value="true" />
+      <created>1726059449481</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1726059449481</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,5 +252,8 @@
     <MESSAGE value="Upload session 2" />
     <MESSAGE value="Session 2" />
     <option name="LAST_COMMIT_MESSAGE" value="Session 2" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Hertie_Fall2024_Natural_Language_Processing$regex.coverage" NAME="regex Coverage Results" MODIFIED="1726236348944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Regular Expressions" />
   </component>
 </project>
